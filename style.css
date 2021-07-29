@@ -4,7 +4,29 @@
     width:1116px ;
     height:58px ;
 }
+/*Navbar start*/
+.navbar{
+    background-color: #264653;
+    width: 100%;
+    height: 100px;
+   
 
+}
+.box-header-1{
+    float: right;
+}
+.box-header-2 ul{
+    float: left; 
+    display: flex;
+    list-style-type: none;
+}
+.nav-link ul li a  {
+   color: #DEE3E5;
+   font-weight: 50px;
+}
+
+
+/*Navbar end*/
 /*Honda start*/
 .container-1{
     background-color: #264653;
@@ -155,3 +177,56 @@ font-weight: bold;
 
 
 /*Freequently section start*/
+/*video section start*/
+.a6-f{
+	width:100%;
+	height:300px;
+	border-width:1px;
+	border-color:black;
+	border-style:solid;
+		
+}
+.a6-1-f{
+	width:50%;
+	height:300px;
+	border-width:1px;
+	border-color:black;
+    border-style:solid;
+	float:left;
+	font-size:17px;
+	font-style:time new roman;
+	font-weight:;
+   	color:black;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:25px;
+	padding-right:25px;
+	text-align:left; 
+	 overflow: scroll;
+}
+.a6-1-f h1{
+	text-shadow: 8px 8px 2px silver;
+	animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  50% {font: 40px bold;}
+}
+
+
+.a6-2-f{
+	width:50%;
+	height:300px;
+	border-width:1px;
+	border-color:black;
+    border-style:solid;
+	float:left;
+	
+}
+.a6-2-f video{
+	width:100%;
+	height:300px;
+
+	
+}
+/*video section start*/
