@@ -4,18 +4,16 @@
     width:1116px ;
     height:58px ;
 }
+
+/*Honda start*/
+.container-1{
+    background-color: #264653;
+
+}
 .image-background-color-header{
     background-color: #F8F9FA;
     padding: .5rem 1rem;
 }
-
-.orange-bg{
-background-color: #fceae8;
-border-radius: 10px;
-}
-
-
-
 
 .panda-btn-buy-now{
     background-color:#FFFFFF;
@@ -26,13 +24,17 @@ border-radius: 10px;
     border-radius: 5px;
     padding:9px 35px;
 }
-
+.col-lg-6{
+    padding-top: 100px;
+    padding-left: 200px;
+}
     
 
 .categories-background-1{
-    background-color:#FFA500 ; 
-    padding: 10px 30px;
-    border-radius: 10px;
+    
+  float: left;  
+
+   
 }
  
  
@@ -45,19 +47,29 @@ padding-left: 200px;
    
 }
 .categories-background-2 img{
-    width: 500px; 
+    width: 550px; 
   
   }
 
  
  .tex-white{
     color: #FFFFFF; 
-    font-size: 2.5rem;
-    margin-bottom: .5rem;
-    font-weight: 500;
-    line-height: 1.2;
+   
 
  }
+ .honda-btn{
+    background-color:#EF9F8B;
+    color:#FCECE7 ;
+    border: 1px;
+    border-style: solid;
+    border-color:#EF9F8B ;
+    border-radius: 5px;
+    padding:9px 35px;
+    font-weight: bold;
+    text-decoration: none;
+
+ }
+ /*Honda end*/
  
 .fa-greater-than{
 font-size: 10px;
