@@ -196,9 +196,12 @@ font-weight: bold;
 
 
 /*Freequently section start*/
-.freequently img{
-    width: 80%;
+.freequently{
+    display: flex;
+}
 
+.freequently img{
+    width: 70%;
 }
 
 .instruction{
