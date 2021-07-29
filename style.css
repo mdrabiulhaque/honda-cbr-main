@@ -72,7 +72,7 @@
     padding:9px 35px;
     text-decoration: none;
 }
-.col-lg-6{
+.categories-x{
     padding-top: 100px;
     padding-left: 200px;
 }
@@ -196,12 +196,23 @@ font-weight: bold;
 
 
 /*Freequently section start*/
+.freequently img{
+    width: 80%;
 
+}
 
+.instruction{
+    border-width: 4px;
+    border-color: #D5E5FB;
+    border-style: solid;
+    border-radius: 7px;
+    margin: 15px;
+}
+.coloured{
+    color: #7D858E;
+}
 
-
-
-/*Freequently section start*/
+/*Freequently section end*/
 /*video section start*/
 .a6-f{
     display: flex;
