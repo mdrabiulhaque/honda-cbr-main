@@ -1,0 +1,139 @@
+
+.box-header{
+    
+    width:1116px ;
+    height:58px ;
+}
+.image-background-color-header{
+    background-color: #F8F9FA;
+    padding: .5rem 1rem;
+}
+
+.orange-bg{
+background-color: #fceae8;
+border-radius: 10px;
+}
+
+
+
+
+.panda-btn-buy-now{
+    background-color:#FFFFFF;
+    color:#EE9D89 ;
+    border: 1px;
+    border-style: solid;
+    border-color:#EF9F8B ;
+    border-radius: 5px;
+    padding:9px 35px;
+}
+
+    
+
+.categories-background-1{
+    background-color:#FFA500 ; 
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+ 
+ .categories-background-1 img{
+   width: 00px; 
+   
+   
+ }
+ 
+.categories-background-2{
+    display: flex; 
+justify-content: center;
+align-items: center;
+padding-left: 200px;
+   
+}
+.categories-background-2 img{
+    width: 500px; 
+  
+  }
+
+ 
+ .tex-white{
+    color: #FFFFFF; 
+    font-size: 2.5rem;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+
+ }
+ 
+.fa-greater-than{
+font-size: 10px;
+ }
+ 
+ .center{
+    text-align: center; 
+ }
+ 
+ .red{
+    text-align: center;   
+    color:red ;
+ }
+ 
+ #background{
+     background-color: #E76F51;
+     color: #FAE2DC;
+ }
+
+
+
+  /*Happy client start*/
+  
+ .card-title{
+    color: #212227; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .card-text{
+    color: #9B9B9B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.happy-img img{
+   
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 130px;
+  padding-right: 130px;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.orange{
+color:#E97D61 ;
+}
+.m-3{
+  display: flex; 
+justify-content: center;
+align-items: center;
+
+}
+.fa-star{
+    color: #E67C40;
+
+}
+.regina{
+    color: #56BAF3;
+    display: flex; 
+justify-content: center;
+align-items: center;
+font-weight: bold;
+}
+.banker{
+    color: #393E53;
+    display: flex; 
+justify-content: center;
+align-items: center;
+font-weight: bold;
+}
+/*Happy client end*/
